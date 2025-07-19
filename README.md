@@ -1,6 +1,6 @@
 # 🔒 URL Shield
 
-**URL Shield** is a machine learning-based tool designed to detect and classify URLs as **benign**, **phishing**, or **malicious**. It helps enhance user security by identifying suspicious URLs using pre-trained models.
+**URL Shield** is a machine learning-based tool designed to detect and classify URLs as **benign**, **phishing**,**defacement or **malicious**. It helps enhance user security by identifying suspicious URLs using pre-trained models.
 
 ---
 
